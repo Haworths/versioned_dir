@@ -1,1 +1,2 @@
-This is a conflicting text file - part 2
+
+This is a conflicting text file - parts 1 and 2
