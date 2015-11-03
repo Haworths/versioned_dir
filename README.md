@@ -1,6 +1,7 @@
-# Hello GitHub
+# Hello Useful GitHub
 
 This is a README.md file that will be used to describe this
 repository on GitHub
 
-This is another branch line of text created to push from the "original"
+This is an extra line of text added to the copy
+of README.md in the cloned repository
